@@ -39,12 +39,12 @@
 - ✔ Inter-University Astronomy & Astrophysics Project Certificate (Pune)  
 
 ---
-
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Samiksha-Jondhale&show_icons=true&theme=dark&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Samiksha-Jondhale-15&show_icons=true&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samiksha-Jondhale&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samiksha-Jondhale-15&layout=compact&theme=dark&hide_border=true)
+
 
 ---
 ⭐ “Data is the new oil, and I want to refine it into insights that make an impact.”
