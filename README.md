@@ -23,7 +23,12 @@
 
 ## 📊 Projects & Experience
 - 🛰 Group Project at Inter-University Centre for Astronomy and Astrophysics (Pune) – Completed a certified project as part of a research-focused team.  
-- 📈 AMAZON Sales Dashboard – Built interactive dashboards in Excel/Power BI for sales insights. 
+- 📈 AMAZON Sales Dashboard – Built interactive dashboards in Excel/Power BI for sales insights.
+- 💻 **Python Mini Projects**  
+         🧮 **Calculator** – A GUI-based calculator using Tkinter  
+         📋 **To-Do List App** – Simple task manager to add, delete, and check tasks  
+         📝 **Word Counter** – Counts words and characters in user input text  
+         🔢 **Number Guessing Game** – A fun console-based game to guess a random number
 
 ---
 
